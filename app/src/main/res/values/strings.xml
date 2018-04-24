@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Kotlin Application</string>
+    <string name="joke_button_label">Tell Joke</string>
+</resources>
